@@ -1,2 +1,2 @@
-# sqg5746.github.io
+# squiggles.github.io
 This is the nexus of the universe.
